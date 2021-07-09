@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Koshal Pratap] (https://www.github.com/KoshalPratap2005)
+- Place : Rajasthan , India
+- Bio : Python Developer
+- Github : [KoshalPratap2005] (https://www.github.com/KoshalPratap2005)
